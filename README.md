@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/github/license/deepseek7878/poker-rl-agent?style=for-the-badge)](https://github.com/deepseek7878/poker-rl-agent/blob/main/LICENSE)
 [![RLlib](https://img.shields.io/badge/RLlib-Supported-orange?style=for-the-badge&logo=ray)](https://ray.io)
 
-**Deep Reinforcement Learning Texas Hold'em AI / 深度强化学习德州扑克AI / 深度強化學習德州撲克AI**  
+**Deep Reinforcement Learning Texas Hold'em AI /德州AI/德州辅助软件源码/ 深度强化学习德州扑克AI / 深度強化學習德州撲克AI**  
 CFR + DQN + Self-play training pipeline for heads-up and 6-player No-Limit Hold'em / CFR+DQN+自对弈训练流程，支持1v1及6人无限注德州 / CFR+DQN+自對弈訓練流程，支援1v1及6人無限注德州.
 
 ## 🎯 AI实力 / AI Performance / AI實力
